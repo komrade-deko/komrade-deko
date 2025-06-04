@@ -1,4 +1,4 @@
-<img align = "right" src="https://visitor-badge.laobi.icu/badge?pageid=komrade-deku.komrade-deku" />
+<img align = "right" src="https://visitor-badge.laobi.icu/badge?pageid=komrade-deko.komrade-deko" />
 
 <!--
 **komrade-deko/komrade-deko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
