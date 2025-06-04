@@ -29,11 +29,11 @@
   </a>
   <hr/>
 </div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=blender,cs,codepen,html,css,vscode,github,figma,tailwind,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,javascript,mysql,react,threejs,unreal,godot,webpack,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,html,css,vscode,github,figma,git,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,threejs,unreal,godot,webpack,unity" /><br>
 </div>
 <hr/>
 
