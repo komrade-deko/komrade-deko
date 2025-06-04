@@ -32,8 +32,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=blender,html,css,vscode,github,figma,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,threejs,unreal,godot,webpack,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,html,css,vscode,github,figma,git,linux,lua,python,javascript,threejs,unreal,godot,webpack,unity" />
 </div>
 <hr/>
 
