@@ -11,9 +11,8 @@
 
 📫 Email: andreluiz0222@gmail.com
 
-🔭 Currently studying game creation.
-
-🌱 Fullstack Developer
+🎨 3d Artist.
+🎮 Game Developer.
 
 ⚡ Fun Fact About Me: I know every song from the TV show Crazy Ex-Girlfriend.
 
