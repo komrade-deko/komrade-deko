@@ -36,7 +36,7 @@
 <hr/>
 
 <div align="center">
-  <a href="https://github.com/PseudoHetero">
+  <a href="https://github.com/komrade-deko">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komrade-deko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komrade-deko&layout=compact&langs_count=7&theme=dracula"/>
 </div><hr/>
